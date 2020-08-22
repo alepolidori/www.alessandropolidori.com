@@ -1,0 +1,22 @@
+{
+  "name": "www.alessandropolidori.com",
+  "version": "0.0.1",
+  "description": "Personal Site of Alessandro Polidori",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alepolidori/www.alessandropolidori.com.git"
+  },
+  "author": "Alessandro Polidori",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alepolidori/www.alessandropolidori.com/issues"
+  },
+  "homepage": "https://github.com/alepolidori/www.alessandropolidori.com#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.2"
+  }
+}
