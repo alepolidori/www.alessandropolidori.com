@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/alepolidori/www.alessandropolidori.com#readme",
   "dependencies": {
-    "bootstrap": "^4.5.2"
+    "bootstrap": "^4.5.2",
+    "jquery": "^3.5.1"
   }
 }
